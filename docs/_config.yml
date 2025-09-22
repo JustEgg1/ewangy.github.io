@@ -7,7 +7,7 @@ domain: "ewangy.github.io"
 url: "https://justegg1.github.io/ewangy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  JustEgg1
-remote_theme: anxhe/jekyll-theme-experiment
+remote_theme: pages-themes/minimal
 
 jekyll-theme-experiment:
   about: # optional
