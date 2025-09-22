@@ -4,8 +4,7 @@ email: Ewan8gy@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am a games programmer currently studying computer games applications development in my 4th year at abertay unviersity, below you can find some of the projects I have worked on!
 domain: "ewangy.github.io"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ewangy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://justegg1.github.io/ewangy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  JustEgg1
 remote_theme: anxhe/jekyll-theme-experiment
