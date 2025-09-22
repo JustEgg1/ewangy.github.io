@@ -28,7 +28,7 @@ domain: "ewangy.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ewangy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  JustEgg1
 
 # Build settings
 theme: minima
